@@ -1,6 +1,6 @@
 # MSI H81M-P33
 
-<img src="Pictures/02.png" width="240px">
+<img src="Pictures/02.png" width="240px"> <img src="Pictures/05.png" width="240px">
 
 ## Table of Contents
 
