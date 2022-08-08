@@ -11,6 +11,6 @@
     - [Audio](https://github.com/pal1000/Realtek-UAD-generic)
 - [BIOS](/BIOS/)
   - [BIOS Mods](/BIOS/BIOS%20Mods/)
-        - [ME Cleaner Guide](/BIOS/BIOS%20Mods/ME%20Cleaner/)
-        - [SLIC Mods](/BIOS/BIOS%20Mods/SLIC%20Mods/)
+    - [ME Cleaner Guide](/BIOS/BIOS%20Mods/ME%20Cleaner/)
+    - [SLIC Mods](/BIOS/BIOS%20Mods/SLIC%20Mods/)
   - [Screenshots](/BIOS/Screenshots/)
