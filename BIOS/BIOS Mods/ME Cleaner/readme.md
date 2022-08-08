@@ -1,11 +1,13 @@
 # Erasing Intel ME via internal flashing with me_cleaner & Intel FPT (MSI H81M-P33)
 
-# Requirements
+## Requirements
+
 - Python
 - me_cleaner v1.2 - [corna/me_cleaner](https://github.com/corna/me_cleaner/releases)
 - Intel ME System Tools - [mostav02/Remove_IntelME_FPT](https://github.com/mostav02/Remove_IntelME_FPT/tree/master/Intel_ME_System_Tools)
 
-# Instructions
+## Instructions
+
 1. Make a full flash dump 
 
 ```PowerShell
@@ -42,12 +44,12 @@ python me_cleaner.py -s -O Modifiled_FullDump.bin FullDump.bin
 
 To check ME version, you can use either [HWiNFO64](https://www.hwinfo.com/download/) or [ME Analyzer](https://github.com/platomav/MEAnalyzer).
 
-![](https://i.imgur.com/n9prhyS.png)
+![img](https://i.imgur.com/n9prhyS.png)
 
+## Results
 
-# Results
 ```PowerShell
 .\MEInfoWin64.exe -verbose
 ```
-![](https://i.imgur.com/WUIPPb1.png)
 
+![img](https://i.imgur.com/WUIPPb1.png)
