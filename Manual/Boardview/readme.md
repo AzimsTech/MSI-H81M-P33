@@ -1,4 +1,4 @@
-# Preivew
+# Preview
 
 ![img](https://i.imgur.com/rZvw7IA.png)
 
