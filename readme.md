@@ -9,6 +9,7 @@
   - 📘 [User Manual](/Manual/User%20Manual/M7817v1.0.pdf)
   - 📗 [Quick Start Guide](/Manual/Quick%20Installation%20Guide/MB_QIG_wHDMI.pdf)
   - 🗺 [Mainboard Schematic](/Manual/Mainboard%20Schematic/MS-7817.pdf)
+  - 🔬 [Boardview](/Manual/Boardview/MS-7817-1.2.cad)
 - 💿 [Drivers](/Drivers/)
   - ⚙ [System & Chipset](/Drivers/intel_chipset_9.zip)
   - 🌐 [LAN](/Drivers/realtek_pcielan_w10.zip)
